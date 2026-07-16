@@ -1,73 +1,149 @@
-# Hi there, I'm Shivanand Tripathi 👋
+# 👋 Hi, I'm Shivanand Tripathi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=500&lines=Full-Stack+Developer;React+Native+%7C+Next.js+%7C+Node.js;Building+real-world+apps+from+scratch" alt="Typing SVG" />
-
----
-
-## 🚀 About Me
-
-- 🔭 I build full-stack web and mobile applications
-- 🌱 Currently exploring **React Native**, **Next.js**, and **cloud deployments**
-- 💡 I love turning ideas into real, working products
-- 🎯 Focus: Clean code, great UX, and scalable architecture
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Database & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🏗️ Featured Projects
-
-### 🚕 [GoRide — Cab Booking App](https://github.com/Shiva0208/goride)
-A full-stack cab booking platform with three roles: Customer, Driver, and Admin.
-- **Web**: Next.js + TailwindCSS → [goride-web.vercel.app](https://goride-web.vercel.app)
-- **API**: Express + Prisma + PostgreSQL (Neon) → deployed on Vercel
-- **Mobile**: Expo React Native app (works on Android & iOS)
-- Features: Real-time ride tracking, fare calculator, driver availability, admin dashboard
-
-### 📚 [Student Academic Hub](https://github.com/Shiva0208/student-academic-hub)
-A student productivity platform for managing academic life.
-- **Stack**: Node.js + Express + MongoDB
-- Features: Notes, deadlines, projects, study groups
-
----
-
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=800&lines=Engineering+Leader+%7C+Technology+Architect;13.6%2B+Years+of+Engineering+Experience;Engineering+Excellence+%7C+DevSecOps+%7C+Cloud+Engineering;AI-Assisted+Engineering+%7C+Product+Builder" alt="Typing SVG" />
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva0208&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva0208&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=Shiva0208&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 👨‍💻 Engineering Leader | Technology Architect | Product Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shiva0208-181717?style=for-the-badge&logo=github)](https://github.com/Shiva0208)
+I am an **Engineering Leader and Technology Architect with 13.6+ years of experience** across **FinTech, Banking, and Enterprise technology**.
+
+I specialise in building **high-performing engineering organisations, enterprise-grade platforms, cloud-native architectures, and engineering practices that improve software delivery, reliability, quality, and developer productivity**.
+
+My experience spans the complete engineering lifecycle:
+
+> **Strategy → Architecture → Engineering Practices → Development → Quality → DevSecOps → Reliability → Continuous Improvement**
+
+I combine **technical depth with engineering leadership** to transform complex business and technology challenges into scalable, secure, and reliable solutions.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shiva0208&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
-</p>
+## 🎯 What I Do
+
+- 🏗️ Engineering Strategy & Engineering Excellence
+- 🧩 Solution & Technical Architecture
+- ☁️ Cloud-Native & Platform Engineering
+- 🔐 DevSecOps & API Security
+- 🚀 CI/CD & Release Engineering
+- ⚙️ SRE, Reliability & Observability
+- 🧪 Quality Engineering & Test Automation
+- 🤖 AI-Assisted & Agentic Engineering
+- 📊 Engineering Metrics & Developer Productivity
+- 👥 Engineering Leadership & Team Development
+- 🔄 Technology Transformation & Process Improvement
+
+---
+
+## 📈 Engineering Impact
+
+With **13.6+ years of experience** across engineering leadership, architecture, software development, automation, and technology transformation, I have delivered measurable impact including:
+
+| Impact Area | Result |
+|---|---|
+| 🐞 Production Quality | **40% reduction in production bugs** through automation |
+| ⚡ Engineering Efficiency | **20–25% productivity and efficiency improvements** |
+| 🛡️ System Reliability | **40% reduction in system downtime** |
+| 🚀 Delivery | **20% faster project delivery** through improved engineering practices |
+| 👥 Team Growth | **30% increase in team capacity** through structured mentoring and hiring |
+| 🧑‍💼 Talent Development | **200+ candidates interviewed and mentored** |
+| 🏗️ Architecture | **10+ RFCs and HLDs** designed and delivered |
+| 🤖 AI & Automation | AI-powered reporting and AI-assisted engineering workflows |
+
+---
+
+## 🏢 Domain Experience
+
+- 💳 FinTech & Payments
+- 🏦 Banking & Financial Services
+- 🏗️ Enterprise Technology
+- 📊 Digital Platforms
+- ☁️ Cloud-Native Systems
+- 🔌 API & Integration Platforms
+- 🧪 Quality Engineering & Automation
+
+---
+
+## 🚀 Products & Platforms
+
+### 👥 [Staffly360 — HR Management Platform](https://staffly360.com/)
+
+An HR technology platform designed to support the complete employee lifecycle.
+
+**Platform capabilities include:**
+
+`Employee Management` · `Recruitment` · `Onboarding` · `Leave` · `Attendance` · `Performance` · `Learning` · `Employee Engagement` · `Workforce Analytics`
+
+**Focus:** SaaS · HR Technology · Workflow Automation · Employee Experience
+
+---
+
+### 🚕 [CargoNestHub — Mobility Platform](https://www.cargonesthub.com/)
+
+A technology platform focused on modern mobility and ride-management experiences.
+
+**Focus:** Mobility Technology · Product Engineering · Full-Stack Development · API Architecture
+
+---
+
+## 💻 Selected Engineering Projects
+
+### 🚕 [GoRide — Full-Stack Mobility Platform](https://github.com/Shiva0208/goride)
+
+A full-stack cab-booking platform covering customer, driver, and administrative workflows.
+
+**Key capabilities:**
+
+- 🚗 Customer and driver experiences
+- 📍 Ride booking and management
+- 💰 Fare calculation
+- 👨‍✈️ Driver availability
+- 📱 Web and mobile applications
+- 🛠️ Administrative workflows
+
+**Technology:** Next.js · React Native · Node.js · Express · Prisma · PostgreSQL
+
+---
+
+### 📚 [Student Academic Hub](https://github.com/Shiva0208/student-academic-hub)
+
+A productivity platform designed to help students manage academic activities.
+
+**Key capabilities:**
+
+- 📝 Notes Management
+- 📅 Deadline Tracking
+- 📚 Project Management
+- 👥 Study Groups
+
+**Technology:** Node.js · Express · MongoDB
+
+---
+
+## 🧪 Engineering Excellence
+
+I am passionate about improving the complete software delivery lifecycle:
+
+```text
+Idea
+  ↓
+Architecture & Design
+  ↓
+Development
+  ↓
+Code Quality & Security
+  ↓
+Automated Testing
+  ↓
+CI/CD
+  ↓
+Deployment
+  ↓
+Observability
+  ↓
+Reliability
+  ↓
+Continuous Improvement
