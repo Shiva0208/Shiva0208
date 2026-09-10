@@ -40,7 +40,7 @@ I combine **technical depth with engineering leadership** to transform complex b
 
 ## 📈 Engineering Impact
 
-With **13.6+ years of experience** across engineering leadership, architecture, software development, automation, and technology transformation, I have delivered measurable impact including:
+With **14+ years of experience** across engineering leadership, architecture, software development, automation, and technology transformation, I have delivered measurable impact including:
 
 | Impact Area | Result |
 |---|---|
