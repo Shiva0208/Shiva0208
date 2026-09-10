@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivanand Tripathi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=800&lines=Engineering+Leader+%7C+Technology+Architect;13.6%2B+Years+of+Engineering+Experience;Engineering+Excellence+%7C+DevSecOps+%7C+Cloud+Engineering;AI-Assisted+Engineering+%7C+Product+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=800&lines=Engineering+Leader+%7C+Technology+Architect;14%2B+Years+of+Engineering+Experience;Engineering+Excellence+%7C+DevSecOps+%7C+Cloud+Engineering;AI-Assisted+Engineering+%7C+Product+Builder" alt="Typing SVG" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shiva0208&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
