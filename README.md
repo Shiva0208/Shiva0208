@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Engineering Leader | Technology Architect | Product Builder
 
-I am an **Engineering Leader and Technology Architect with 13.6+ years of experience** across **FinTech, Banking, and Enterprise technology**.
+I am an **Engineering Leader and Technology Architect with 14+ years of experience** across **FinTech, Banking, and Enterprise technology**.
 
 I specialise in building **high-performing engineering organisations, enterprise-grade platforms, cloud-native architectures, and engineering practices that improve software delivery, reliability, quality, and developer productivity**.
 
